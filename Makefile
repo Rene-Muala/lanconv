@@ -7,7 +7,7 @@ example_exec_file = "example.out"
 all: build_lib build_example message
 
 build_lib:
-	@echo "compiling landb.cpp"
+	@echo "compiling lanconv.cpp"
 	@g++ -c $(lib_src_file)  -o $(lib_obj_file)
 	@echo "done." 
 
