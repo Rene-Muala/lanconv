@@ -9,7 +9,6 @@
 #ifndef lanconv_hpp
 #define lanconv_hpp
 
-#include <stdio.h>
 #include <string>
 #include <string_view>
 
